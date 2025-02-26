@@ -1,35 +1,67 @@
 [
     {
-    "tvName":"Hasan Imam Hospital",
-    "tvName2":"+8801700909089",
-    "tvName3":"shantohasanimam@gamil.com",
-    "tvName4":"Jeshore, Jhikargacha",
+    "tvName":"Dr. Anisuzzaman Hospital, Jessore",
+    "tvName2":"+8801730099070",
+    "tvName3":"Address: Koyerpara, Chowgacha, Jashore, Khulna, Bangladesh",
+    "tvName4":" ",
     "tvImage":"https://raw.githubusercontent.com/X74TEAM/KiDorkar/refs/heads/main/banner1.png"
     
 },
 
 {
-    "tvName":"Sumon Khan",
-    "tvName2":"+8801644811180",
-    "tvName3":"sumonbiswas5481@gamil.com",
-    "tvName4":"Jeshore, Khulna",
+    "tvName":"Ad-din Eye Hospital, Jessore",
+    "tvName2":"+88042167893",
+    "tvName3":"Address: Jessore 7400",
+    "tvName4":" ",
     "tvImage":"https://raw.githubusercontent.com/X74TEAM/KiDorkar/refs/heads/main/banner2.png"
     
 },
 
 {
-    "tvName":"Ariful Islam",
-    "tvName2":"+8801719162270",
-    "tvName3":"arifukislamdkh@gamil.com",
-    "tvName4":"Khulna, Bangladesh",
+    "tvName":"Akota Hospital, Jessore",
+    "tvName2":"+8801712217417",
+    "tvName3":"Address: Dorantana More, Jashore",
+    "tvName4":" ",
     "tvImage":"https://cdn5.vectorstock.com/i/1000x1000/44/74/businessman-avatar-character-icon-vector-14534474.jpg"
     
 },
     {
-    "tvName":"Ariful Islam",
-    "tvName2":"+8801719162270",
-    "tvName3":"arifukislamdkh@gamil.com",
-    "tvName4":"Khulna, Bangladesh",
+    "tvName":"Ad-Deen Hospital, Jessore",
+    "tvName2":"+8801713488460",
+    "tvName3":"Address: Jashore",
+    "tvName4":" ",
+    "tvImage":"https://cdn5.vectorstock.com/i/1000x1000/44/74/businessman-avatar-character-icon-vector-14534474.jpg"
+    
+},
+{
+    "tvName":"Ahad Diabetic Health Complex, Jessore",
+    "tvName2":"+88042166273",
+    "tvName3":"Address: Jhumjhumpur, Jashore",
+    "tvName4":" ",
+    "tvImage":"https://cdn5.vectorstock.com/i/1000x1000/44/74/businessman-avatar-character-icon-vector-14534474.jpg"
+    
+},
+{
+    "tvName":"Ad-din Shishu Hospital, Jessore",
+    "tvName2":"+8801718206749",
+    "tvName3":"Address: DC Banglo Road, Jashore",
+    "tvName4":" ",
+    "tvImage":"https://cdn5.vectorstock.com/i/1000x1000/44/74/businessman-avatar-character-icon-vector-14534474.jpg"
+    
+},
+{
+    "tvName":"Dorantana Hospital, Jessore",
+    "tvName2":"+8801711826860",
+    "tvName3":"Address: Dorantana Road, Jashore",
+    "tvName4":" ",
+    "tvImage":"https://cdn5.vectorstock.com/i/1000x1000/44/74/businessman-avatar-character-icon-vector-14534474.jpg"
+    
+},
+{
+    "tvName":"Fatima Hospital, Jessore",
+    "tvName2":"+8800421-66240",
+    "tvName3":"Address: Gorib Shah Rd, Jashore",
+    "tvName4":" ",
     "tvImage":"https://cdn5.vectorstock.com/i/1000x1000/44/74/businessman-avatar-character-icon-vector-14534474.jpg"
     
 }
