@@ -9,20 +9,38 @@
 },
 
 {
-    "tvName":"Shanto Khan",
-    "tvName2":"+8801768191229",
-    "tvName3":"shantokhan@gamil.com",
-    "tvName4":"Jeshore, Khulna",
-    "tvImage":"https://raw.githubusercontent.com/X74TEAM/KiDorkar/refs/heads/main/banner1.png"
+    "tvName":"দুর্নীতি দমন কমিশনের কল সেন্টার।",
+    "tvName2":"106",
+    "tvName3":"",
+    "tvName4":"যে কোন দুর্নীতি চোখে পড়লে বিনামূল্যে কল করে জানিয়ে দিন।",
+    "tvImage":"https://img.banner1.png"
     
 },
 
 {
-    "tvName":"Amin Khan",
-    "tvName2":"+8801768190320",
-    "tvName3":"aminkhan@gamil.com",
-    "tvName4":"Khulna, Bangladesh",
-    "tvImage":"https://raw.githubusercontent.com/X74TEAM/KiDorkar/refs/heads/main/banner1.png"
+    "tvName":"সরকারি আইনি সহায়তা কল সেন্টার।",
+    "tvName2":"16430",
+    "tvName3":"",
+    "tvName4":"আইনগত যে কোন পরামর্শ বা সাহায্য পেতে বিনামূল্যে কল করুন।",
+    "tvImage":"https://raw.ain/banner1.png"
+    
+},
+
+{
+    "tvName":"কৃষি বিষয়ক",
+    "tvName2":"16123",
+    "tvName3":"",
+    "tvName4":"কৃষি বিষয়ক যে কোন পরামর্শ পেতে বিনামূল্যে কল করুন। কৃষি, মৎস, প্রানীসম্পদ বিষয়ক যে কোন পরামর্শ বিশেষজ্ঞদের কাছ থেকে জানতে পারবেন।",
+    "tvImage":"https://raw.ain/banner1.png"
+    
+},
+
+{
+    "tvName":"নারী নির্যাতন বা বাল্যবিবাহ হতে দেখলেই বিনামূল্যে কল করুন এই নাম্বারে।",
+    "tvName2":"109",
+    "tvName3":"",
+    "tvName4":"",
+    "tvImage":"https://raw.ain/banner1.png"
     
 }
 ]
