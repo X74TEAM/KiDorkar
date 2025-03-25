@@ -1,20 +1,68 @@
 [
     {
-    "tvName":"Shawon Raza",
-    "tvName2":"+8801811857415",
-    "tvName3":"shawonr265@gmail.com",
-    "tvName4":"Jeshore, Jhikargacha",
-    "tvImage":"https://raw.githubusercontent.com/X74TEAM/KiDorkar/refs/heads/main/ghotok1.jpg"
+    "tvName":"DR. Mahbubur Rahman",
+    "tvName2":"+8801706363640",
+    "tvName3":"Department Name: Diabetes Specialist",
+    "tvName4":"Chamber Address: Ibn Sina Diagnostic & Consultation Center, Jessore",
+    "tvImage":"https://img.banner1.png"
     
 },
 
 {
-    "tvName":"Harunur Rashid",
-    "tvName2":"+8801729977990",
-    "tvName3":"harunurrashid428@yahoo.com",
-    "tvName4":"Jeshore, Jhikargacha",
-    "tvImage":"https://raw.githubusercontent.com/X74TEAM/KiDorkar/refs/heads/main/ghotok2.jpg"
+    "tvName":"Dr. Md. Isahaque Ali Khan",
+    "tvName2":"+8801706363641",
+    "tvName3":"Department Name: Cardiology",
+    "tvName4":"Qualifications: MBBS (Dhaka), D-Card (D.U), CCD ( BIRDEM )",
+    "tvImage":"https://img.banner2.png"
+    
+},
+
+{
+    "tvName":"Shah Md Badruddoja (Tipu)",
+    "tvName2":"+8801329644215",
+    "tvName3":"Department Name: Child Specialist",
+    "tvName4":"Qualifications: MBBS, BCS (Health), MD (Child Health) Institute of Child and Mother Health Dhaka Consultant Physician-Child",
+    "tvImage":"https://sebadoctor.com/storage/admin/doctor/1699444047.jpg"
+    
+},
+    {
+    "tvName":"Dr. Mohammad Tabriz Hossain",
+    "tvName2":"+8801329644215",
+    "tvName3":"Department Name: Internal Medicine Specialist",
+    "tvName4":"Qualifications: Member, International Society of Nephrology MBBS, BCS (Health) CCD (Bardem), MD (Nephrology) ,Medicine and kidney specialist",
+    "tvImage":"https://sebadoctor.com/storage/admin/doctor/1699443661.jpg"
+    
+},
+    {
+    "tvName":"Dr. Mohammad Monirul Islam",
+    "tvName2":"10633",
+    "tvName3":"Department Name: Hematology and Blood Cancer Specialist",
+    "tvName4":"Qualifications: MBBS(Dmc), FCPS (hematolog)",
+    "tvImage":"https://sebadoctor.com/storage/admin/doctor/1667668711.jpg"
+    
+},
+    {
+    "tvName":"Dr. Sattar Mohammad Sumon",
+    "tvName2":"+8801910001113",
+    "tvName3":"Department Name: Plastic and Burn Surgery",
+    "tvName4":"Qualifications: MBBS FCPS (Plastic Surgery) Received higher training in Turkey, Singapore and India Associate Professor",
+    "tvImage":"https://sebadoctor.com/storage/admin/doctor/1665314405.jpg"
+    
+},
+    {
+    "tvName":"Dr Sardar Boniul Ahmed",
+    "tvName2":"+8801979005522",
+    "tvName3":"Department Name: Rediotherapy Specialist",
+    "tvName4":"Qualifications: MBBS, M Phil (BSMMU)",
+    "tvImage":"https://sebadoctor.com/storage/admin/doctor/1665295470.jpg"
+    
+},
+    {
+    "tvName":"Dr. Farhana Taz",
+    "tvName2":"+8801745115548",
+    "tvName3":"Department Name: Ultrasonogram Specialist",
+    "tvName4":"Qualifications: MBBS, MFIL (Sonologist). আল্ট্রাসনোগ্রাম বিশেষজ্ঞ, ফরিদপুর এ্যাপোলো ডায়াগনস্টিক সেন্টার লিঃ, ফরিদপুর",
+    "tvImage":"https://sebadoctor.com/storage/admin/doctor/1639071347.jpg"
     
 }
-
 ]
